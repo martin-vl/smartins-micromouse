@@ -1,2 +1,2 @@
-# smartins-micromouse
+# Micromouse
 A Micromouse project

@@ -1,0 +1,19 @@
+#VRML_SIM R2020a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.16835131435063855 -0.9446311721102973 -0.28165543423470146 2.1350811500674194
+  position -4.254090816458631 2.8599726301621455 -2.199420497952606
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 3.24 3.24
+  floorTileSize 0.18 0.18
+  floorAppearance PaintedWood {
+    colorOverride 0.0928664 0.0922255 0.0933394
+  }
+  wallHeight 0.01
+}

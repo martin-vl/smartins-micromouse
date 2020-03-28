@@ -1,0 +1,1914 @@
+#VRML_SIM R2020a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.16835131435063855 -0.9446311721102973 -0.28165543423470146 2.1350811500674194
+  position -4.254090816458631 2.8599726301621455 -2.199420497952606
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 3.24 3.24
+  floorTileSize 0.18 0.18
+  floorAppearance PaintedWood {
+    colorOverride 0.0928664 0.0922255 0.0933394
+  }
+  wallHeight 0.01
+}
+mazePole {
+  translation -1.44 0 -1.44
+}
+mazePole {
+  translation -1.44 0 -1.26
+}
+mazePole {
+  translation -1.44 0 -1.08
+}
+mazePole {
+  translation -1.44 0 -0.9
+}
+mazePole {
+  translation -1.44 0 -0.72
+}
+mazePole {
+  translation -1.44 0 -0.54
+}
+mazePole {
+  translation -1.44 0 -0.36
+}
+mazePole {
+  translation -1.44 0 -0.18
+}
+mazePole {
+  translation -1.44 0 0.0
+}
+mazePole {
+  translation -1.44 0 0.18
+}
+mazePole {
+  translation -1.44 0 0.36
+}
+mazePole {
+  translation -1.44 0 0.54
+}
+mazePole {
+  translation -1.44 0 0.72
+}
+mazePole {
+  translation -1.44 0 0.9
+}
+mazePole {
+  translation -1.44 0 1.08
+}
+mazePole {
+  translation -1.44 0 1.26
+}
+mazePole {
+  translation -1.44 0 1.44
+}
+mazePole {
+  translation -1.26 0 -1.44
+}
+mazePole {
+  translation -1.26 0 -1.26
+}
+mazePole {
+  translation -1.26 0 -1.08
+}
+mazePole {
+  translation -1.26 0 -0.9
+}
+mazePole {
+  translation -1.26 0 -0.72
+}
+mazePole {
+  translation -1.26 0 -0.54
+}
+mazePole {
+  translation -1.26 0 -0.36
+}
+mazePole {
+  translation -1.26 0 -0.18
+}
+mazePole {
+  translation -1.26 0 0.0
+}
+mazePole {
+  translation -1.26 0 0.18
+}
+mazePole {
+  translation -1.26 0 0.36
+}
+mazePole {
+  translation -1.26 0 0.54
+}
+mazePole {
+  translation -1.26 0 0.72
+}
+mazePole {
+  translation -1.26 0 0.9
+}
+mazePole {
+  translation -1.26 0 1.08
+}
+mazePole {
+  translation -1.26 0 1.26
+}
+mazePole {
+  translation -1.26 0 1.44
+}
+mazePole {
+  translation -1.08 0 -1.44
+}
+mazePole {
+  translation -1.08 0 -1.26
+}
+mazePole {
+  translation -1.08 0 -1.08
+}
+mazePole {
+  translation -1.08 0 -0.9
+}
+mazePole {
+  translation -1.08 0 -0.72
+}
+mazePole {
+  translation -1.08 0 -0.54
+}
+mazePole {
+  translation -1.08 0 -0.36
+}
+mazePole {
+  translation -1.08 0 -0.18
+}
+mazePole {
+  translation -1.08 0 0.0
+}
+mazePole {
+  translation -1.08 0 0.18
+}
+mazePole {
+  translation -1.08 0 0.36
+}
+mazePole {
+  translation -1.08 0 0.54
+}
+mazePole {
+  translation -1.08 0 0.72
+}
+mazePole {
+  translation -1.08 0 0.9
+}
+mazePole {
+  translation -1.08 0 1.08
+}
+mazePole {
+  translation -1.08 0 1.26
+}
+mazePole {
+  translation -1.08 0 1.44
+}
+mazePole {
+  translation -0.9 0 -1.44
+}
+mazePole {
+  translation -0.9 0 -1.26
+}
+mazePole {
+  translation -0.9 0 -1.08
+}
+mazePole {
+  translation -0.9 0 -0.9
+}
+mazePole {
+  translation -0.9 0 -0.72
+}
+mazePole {
+  translation -0.9 0 -0.54
+}
+mazePole {
+  translation -0.9 0 -0.36
+}
+mazePole {
+  translation -0.9 0 -0.18
+}
+mazePole {
+  translation -0.9 0 0.0
+}
+mazePole {
+  translation -0.9 0 0.18
+}
+mazePole {
+  translation -0.9 0 0.36
+}
+mazePole {
+  translation -0.9 0 0.54
+}
+mazePole {
+  translation -0.9 0 0.72
+}
+mazePole {
+  translation -0.9 0 0.9
+}
+mazePole {
+  translation -0.9 0 1.08
+}
+mazePole {
+  translation -0.9 0 1.26
+}
+mazePole {
+  translation -0.9 0 1.44
+}
+mazePole {
+  translation -0.72 0 -1.44
+}
+mazePole {
+  translation -0.72 0 -1.26
+}
+mazePole {
+  translation -0.72 0 -1.08
+}
+mazePole {
+  translation -0.72 0 -0.9
+}
+mazePole {
+  translation -0.72 0 -0.72
+}
+mazePole {
+  translation -0.72 0 -0.54
+}
+mazePole {
+  translation -0.72 0 -0.36
+}
+mazePole {
+  translation -0.72 0 -0.18
+}
+mazePole {
+  translation -0.72 0 0.0
+}
+mazePole {
+  translation -0.72 0 0.18
+}
+mazePole {
+  translation -0.72 0 0.36
+}
+mazePole {
+  translation -0.72 0 0.54
+}
+mazePole {
+  translation -0.72 0 0.72
+}
+mazePole {
+  translation -0.72 0 0.9
+}
+mazePole {
+  translation -0.72 0 1.08
+}
+mazePole {
+  translation -0.72 0 1.26
+}
+mazePole {
+  translation -0.72 0 1.44
+}
+mazePole {
+  translation -0.54 0 -1.44
+}
+mazePole {
+  translation -0.54 0 -1.26
+}
+mazePole {
+  translation -0.54 0 -1.08
+}
+mazePole {
+  translation -0.54 0 -0.9
+}
+mazePole {
+  translation -0.54 0 -0.72
+}
+mazePole {
+  translation -0.54 0 -0.54
+}
+mazePole {
+  translation -0.54 0 -0.36
+}
+mazePole {
+  translation -0.54 0 -0.18
+}
+mazePole {
+  translation -0.54 0 0.0
+}
+mazePole {
+  translation -0.54 0 0.18
+}
+mazePole {
+  translation -0.54 0 0.36
+}
+mazePole {
+  translation -0.54 0 0.54
+}
+mazePole {
+  translation -0.54 0 0.72
+}
+mazePole {
+  translation -0.54 0 0.9
+}
+mazePole {
+  translation -0.54 0 1.08
+}
+mazePole {
+  translation -0.54 0 1.26
+}
+mazePole {
+  translation -0.54 0 1.44
+}
+mazePole {
+  translation -0.36 0 -1.44
+}
+mazePole {
+  translation -0.36 0 -1.26
+}
+mazePole {
+  translation -0.36 0 -1.08
+}
+mazePole {
+  translation -0.36 0 -0.9
+}
+mazePole {
+  translation -0.36 0 -0.72
+}
+mazePole {
+  translation -0.36 0 -0.54
+}
+mazePole {
+  translation -0.36 0 -0.36
+}
+mazePole {
+  translation -0.36 0 -0.18
+}
+mazePole {
+  translation -0.36 0 0.0
+}
+mazePole {
+  translation -0.36 0 0.18
+}
+mazePole {
+  translation -0.36 0 0.36
+}
+mazePole {
+  translation -0.36 0 0.54
+}
+mazePole {
+  translation -0.36 0 0.72
+}
+mazePole {
+  translation -0.36 0 0.9
+}
+mazePole {
+  translation -0.36 0 1.08
+}
+mazePole {
+  translation -0.36 0 1.26
+}
+mazePole {
+  translation -0.36 0 1.44
+}
+mazePole {
+  translation -0.18 0 -1.44
+}
+mazePole {
+  translation -0.18 0 -1.26
+}
+mazePole {
+  translation -0.18 0 -1.08
+}
+mazePole {
+  translation -0.18 0 -0.9
+}
+mazePole {
+  translation -0.18 0 -0.72
+}
+mazePole {
+  translation -0.18 0 -0.54
+}
+mazePole {
+  translation -0.18 0 -0.36
+}
+mazePole {
+  translation -0.18 0 -0.18
+}
+mazePole {
+  translation -0.18 0 0.0
+}
+mazePole {
+  translation -0.18 0 0.18
+}
+mazePole {
+  translation -0.18 0 0.36
+}
+mazePole {
+  translation -0.18 0 0.54
+}
+mazePole {
+  translation -0.18 0 0.72
+}
+mazePole {
+  translation -0.18 0 0.9
+}
+mazePole {
+  translation -0.18 0 1.08
+}
+mazePole {
+  translation -0.18 0 1.26
+}
+mazePole {
+  translation -0.18 0 1.44
+}
+mazePole {
+  translation 0.0 0 -1.44
+}
+mazePole {
+  translation 0.0 0 -1.26
+}
+mazePole {
+  translation 0.0 0 -1.08
+}
+mazePole {
+  translation 0.0 0 -0.9
+}
+mazePole {
+  translation 0.0 0 -0.72
+}
+mazePole {
+  translation 0.0 0 -0.54
+}
+mazePole {
+  translation 0.0 0 -0.36
+}
+mazePole {
+  translation 0.0 0 -0.18
+}
+mazePole {
+  translation 0.0 0 0.0
+}
+mazePole {
+  translation 0.0 0 0.18
+}
+mazePole {
+  translation 0.0 0 0.36
+}
+mazePole {
+  translation 0.0 0 0.54
+}
+mazePole {
+  translation 0.0 0 0.72
+}
+mazePole {
+  translation 0.0 0 0.9
+}
+mazePole {
+  translation 0.0 0 1.08
+}
+mazePole {
+  translation 0.0 0 1.26
+}
+mazePole {
+  translation 0.0 0 1.44
+}
+mazePole {
+  translation 0.18 0 -1.44
+}
+mazePole {
+  translation 0.18 0 -1.26
+}
+mazePole {
+  translation 0.18 0 -1.08
+}
+mazePole {
+  translation 0.18 0 -0.9
+}
+mazePole {
+  translation 0.18 0 -0.72
+}
+mazePole {
+  translation 0.18 0 -0.54
+}
+mazePole {
+  translation 0.18 0 -0.36
+}
+mazePole {
+  translation 0.18 0 -0.18
+}
+mazePole {
+  translation 0.18 0 0.0
+}
+mazePole {
+  translation 0.18 0 0.18
+}
+mazePole {
+  translation 0.18 0 0.36
+}
+mazePole {
+  translation 0.18 0 0.54
+}
+mazePole {
+  translation 0.18 0 0.72
+}
+mazePole {
+  translation 0.18 0 0.9
+}
+mazePole {
+  translation 0.18 0 1.08
+}
+mazePole {
+  translation 0.18 0 1.26
+}
+mazePole {
+  translation 0.18 0 1.44
+}
+mazePole {
+  translation 0.36 0 -1.44
+}
+mazePole {
+  translation 0.36 0 -1.26
+}
+mazePole {
+  translation 0.36 0 -1.08
+}
+mazePole {
+  translation 0.36 0 -0.9
+}
+mazePole {
+  translation 0.36 0 -0.72
+}
+mazePole {
+  translation 0.36 0 -0.54
+}
+mazePole {
+  translation 0.36 0 -0.36
+}
+mazePole {
+  translation 0.36 0 -0.18
+}
+mazePole {
+  translation 0.36 0 0.0
+}
+mazePole {
+  translation 0.36 0 0.18
+}
+mazePole {
+  translation 0.36 0 0.36
+}
+mazePole {
+  translation 0.36 0 0.54
+}
+mazePole {
+  translation 0.36 0 0.72
+}
+mazePole {
+  translation 0.36 0 0.9
+}
+mazePole {
+  translation 0.36 0 1.08
+}
+mazePole {
+  translation 0.36 0 1.26
+}
+mazePole {
+  translation 0.36 0 1.44
+}
+mazePole {
+  translation 0.54 0 -1.44
+}
+mazePole {
+  translation 0.54 0 -1.26
+}
+mazePole {
+  translation 0.54 0 -1.08
+}
+mazePole {
+  translation 0.54 0 -0.9
+}
+mazePole {
+  translation 0.54 0 -0.72
+}
+mazePole {
+  translation 0.54 0 -0.54
+}
+mazePole {
+  translation 0.54 0 -0.36
+}
+mazePole {
+  translation 0.54 0 -0.18
+}
+mazePole {
+  translation 0.54 0 0.0
+}
+mazePole {
+  translation 0.54 0 0.18
+}
+mazePole {
+  translation 0.54 0 0.36
+}
+mazePole {
+  translation 0.54 0 0.54
+}
+mazePole {
+  translation 0.54 0 0.72
+}
+mazePole {
+  translation 0.54 0 0.9
+}
+mazePole {
+  translation 0.54 0 1.08
+}
+mazePole {
+  translation 0.54 0 1.26
+}
+mazePole {
+  translation 0.54 0 1.44
+}
+mazePole {
+  translation 0.72 0 -1.44
+}
+mazePole {
+  translation 0.72 0 -1.26
+}
+mazePole {
+  translation 0.72 0 -1.08
+}
+mazePole {
+  translation 0.72 0 -0.9
+}
+mazePole {
+  translation 0.72 0 -0.72
+}
+mazePole {
+  translation 0.72 0 -0.54
+}
+mazePole {
+  translation 0.72 0 -0.36
+}
+mazePole {
+  translation 0.72 0 -0.18
+}
+mazePole {
+  translation 0.72 0 0.0
+}
+mazePole {
+  translation 0.72 0 0.18
+}
+mazePole {
+  translation 0.72 0 0.36
+}
+mazePole {
+  translation 0.72 0 0.54
+}
+mazePole {
+  translation 0.72 0 0.72
+}
+mazePole {
+  translation 0.72 0 0.9
+}
+mazePole {
+  translation 0.72 0 1.08
+}
+mazePole {
+  translation 0.72 0 1.26
+}
+mazePole {
+  translation 0.72 0 1.44
+}
+mazePole {
+  translation 0.9 0 -1.44
+}
+mazePole {
+  translation 0.9 0 -1.26
+}
+mazePole {
+  translation 0.9 0 -1.08
+}
+mazePole {
+  translation 0.9 0 -0.9
+}
+mazePole {
+  translation 0.9 0 -0.72
+}
+mazePole {
+  translation 0.9 0 -0.54
+}
+mazePole {
+  translation 0.9 0 -0.36
+}
+mazePole {
+  translation 0.9 0 -0.18
+}
+mazePole {
+  translation 0.9 0 0.0
+}
+mazePole {
+  translation 0.9 0 0.18
+}
+mazePole {
+  translation 0.9 0 0.36
+}
+mazePole {
+  translation 0.9 0 0.54
+}
+mazePole {
+  translation 0.9 0 0.72
+}
+mazePole {
+  translation 0.9 0 0.9
+}
+mazePole {
+  translation 0.9 0 1.08
+}
+mazePole {
+  translation 0.9 0 1.26
+}
+mazePole {
+  translation 0.9 0 1.44
+}
+mazePole {
+  translation 1.08 0 -1.44
+}
+mazePole {
+  translation 1.08 0 -1.26
+}
+mazePole {
+  translation 1.08 0 -1.08
+}
+mazePole {
+  translation 1.08 0 -0.9
+}
+mazePole {
+  translation 1.08 0 -0.72
+}
+mazePole {
+  translation 1.08 0 -0.54
+}
+mazePole {
+  translation 1.08 0 -0.36
+}
+mazePole {
+  translation 1.08 0 -0.18
+}
+mazePole {
+  translation 1.08 0 0.0
+}
+mazePole {
+  translation 1.08 0 0.18
+}
+mazePole {
+  translation 1.08 0 0.36
+}
+mazePole {
+  translation 1.08 0 0.54
+}
+mazePole {
+  translation 1.08 0 0.72
+}
+mazePole {
+  translation 1.08 0 0.9
+}
+mazePole {
+  translation 1.08 0 1.08
+}
+mazePole {
+  translation 1.08 0 1.26
+}
+mazePole {
+  translation 1.08 0 1.44
+}
+mazePole {
+  translation 1.26 0 -1.44
+}
+mazePole {
+  translation 1.26 0 -1.26
+}
+mazePole {
+  translation 1.26 0 -1.08
+}
+mazePole {
+  translation 1.26 0 -0.9
+}
+mazePole {
+  translation 1.26 0 -0.72
+}
+mazePole {
+  translation 1.26 0 -0.54
+}
+mazePole {
+  translation 1.26 0 -0.36
+}
+mazePole {
+  translation 1.26 0 -0.18
+}
+mazePole {
+  translation 1.26 0 0.0
+}
+mazePole {
+  translation 1.26 0 0.18
+}
+mazePole {
+  translation 1.26 0 0.36
+}
+mazePole {
+  translation 1.26 0 0.54
+}
+mazePole {
+  translation 1.26 0 0.72
+}
+mazePole {
+  translation 1.26 0 0.9
+}
+mazePole {
+  translation 1.26 0 1.08
+}
+mazePole {
+  translation 1.26 0 1.26
+}
+mazePole {
+  translation 1.26 0 1.44
+}
+mazePole {
+  translation 1.44 0 -1.44
+}
+mazePole {
+  translation 1.44 0 -1.26
+}
+mazePole {
+  translation 1.44 0 -1.08
+}
+mazePole {
+  translation 1.44 0 -0.9
+}
+mazePole {
+  translation 1.44 0 -0.72
+}
+mazePole {
+  translation 1.44 0 -0.54
+}
+mazePole {
+  translation 1.44 0 -0.36
+}
+mazePole {
+  translation 1.44 0 -0.18
+}
+mazePole {
+  translation 1.44 0 0.0
+}
+mazePole {
+  translation 1.44 0 0.18
+}
+mazePole {
+  translation 1.44 0 0.36
+}
+mazePole {
+  translation 1.44 0 0.54
+}
+mazePole {
+  translation 1.44 0 0.72
+}
+mazePole {
+  translation 1.44 0 0.9
+}
+mazePole {
+  translation 1.44 0 1.08
+}
+mazePole {
+  translation 1.44 0 1.26
+}
+mazePole {
+  translation 1.44 0 1.44
+}
+mazeWall {
+  translation -1.35 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.17 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.81 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.63 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.45 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.27 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.09 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.09 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.27 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.45 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.63 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.81 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.99 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.17 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.35 0 -1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.44 0 1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.35 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.35 0 -0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.26 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.35 0 -0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.26 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.35 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.35 0 0.0
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.35 0 0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.35 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.26 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.35 0 0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.26 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.35 0 1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.26 0 1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.35 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.17 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.17 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -1.08 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.08 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.08 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.08 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.08 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -1.17 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.99 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.99 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 -0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.9 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.9 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 0.0
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.9 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.9 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.99 0 1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.99 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.81 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.81 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.81 0 -0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.72 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.72 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.72 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.81 0 0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.72 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.72 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.72 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.72 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.81 0 1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.81 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.63 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.63 0 -0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.54 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.63 0 -0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.54 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.54 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.54 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.63 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.54 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.54 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.63 0 1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.54 0 1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.63 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.36 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.45 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.36 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.45 0 -0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.36 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.36 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.36 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.45 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.36 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.36 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.45 0 0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.36 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.45 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.27 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.18 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.18 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.27 0 -0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.18 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.27 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.18 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.18 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.27 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.18 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.18 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.18 0 1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.27 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.09 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.0 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.09 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.0 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.0 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.09 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation -0.09 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.0 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.09 0 0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.0 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.09 0 0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.0 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation -0.09 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.09 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.18 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.18 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.09 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.18 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.18 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.09 0 0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.18 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.09 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.18 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.18 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.09 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.27 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.27 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.36 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.27 0 -0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.36 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.27 0 -0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.36 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.36 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.27 0 0.0
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.36 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.27 0 0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.27 0 0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.27 0 0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.27 0 1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.36 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.27 0 1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.27 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.45 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.54 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.45 0 -0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.54 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.45 0 0.0
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.45 0 0.36
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.45 0 0.54
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.54 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.45 0 0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.45 0 0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.45 0 1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.54 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.45 0 1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.45 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.63 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.72 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.63 0 -0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.72 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.63 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.72 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.63 0 0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.72 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.72 0 1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.63 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.81 0 -1.08
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.9 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.9 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.81 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 0.99 0 -1.26
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 1.08 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.99 0 -0.9
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 1.08 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.99 0 -0.18
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 1.08 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.08 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 0.99 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 1.26 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.17 0 -0.72
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 1.26 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.26 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.17 0 1.44
+  rotation 0 1 0 0
+}
+mazeWall {
+  translation 1.44 0 -1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 -0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 0.09
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 0.27
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 0.45
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 0.63
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 0.81
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 0.99
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 1.17
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.44 0 1.35
+  rotation 0 1 0 1.5708
+}
+mazeWall {
+  translation 1.35 0 1.44
+  rotation 0 1 0 0
+}
