@@ -1,2 +1,9 @@
+*
+!*/
+!*.*
+!MakeFile
 
+.DS_Store
+**/build/**
 *.cache
+

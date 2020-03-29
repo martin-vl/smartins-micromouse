@@ -41,19 +41,19 @@ for i in range(mzSquares+1):
   for j in range(mzSquares+1):
     offsetX = round((i) * mzSqSize - mzSquares * mzSqSize / 2, 4)
     offsetZ = round((j) * mzSqSize - mzSquares * mzSqSize / 2, 4)
-    exportFile.write("\n      mazePole {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n      }")
+    exportFile.write("\n      mazePole {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        name \"pole-" + str(i) + "-" + str(j) + "\"\n      }")
 
 # place walls
 for i in range(mzSquares):
   offsetX = round((i + 0.5) * mzSqSize - mzSquares * mzSqSize / 2, 4)
   offsetZ = -round(mzSquares * mzSqSize / 2, 4)
   rotationY = 0 #1.5708
-  exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n      }")
+  exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n        name \"wall-" + str(i) + "-0\"\n      }")
 
   offsetX = -round(mzSquares * mzSqSize / 2, 4)
   offsetZ = round((i + 0.5) * mzSqSize - mzSquares * mzSqSize / 2, 4)
   rotationY = 1.5708
-  exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n      }")
+  exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n        name \"wall-0-" + str(i+1) + "\"\n      }")
 
 for i in range(mzSquares):
   for j in range(mzSquares):
@@ -62,13 +62,13 @@ for i in range(mzSquares):
       offsetX = round((i + 1) * mzSqSize - mzSquares * mzSqSize / 2, 4)
       offsetZ = round((j + 0.5) * mzSqSize - mzSquares * mzSqSize / 2, 4)
       rotationY = 1.5708
-      exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n      }")
+      exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n        name \"wallA-" + str(i+1) + "-" + str(j+1) + "\"\n      }")
 
     if(sqNum & (1 << 2) !=0):
       offsetX = round((i + 0.5) * mzSqSize - mzSquares * mzSqSize / 2, 4)
       offsetZ = round((j + 1) * mzSqSize - mzSquares * mzSqSize / 2, 4)
       rotationY = 0
-      exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n      }")
+      exportFile.write("\n      mazeWall {\n        translation " + str(offsetX) + " 0.025 " + str(offsetZ) + "\n        rotation 0 1 0 " + str(rotationY) + "\n        name \"wallB-" + str(i+1) + "-" + str(j+1) + "\"\n      }")
 
 # Add end part
 exportFile.write(endFile.read())

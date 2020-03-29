@@ -7,1898 +7,2444 @@ PROTO maze [
     children [
       mazePole {
         translation -1.44 0.025 -1.44
+        name "pole-0-0"
       }
       mazePole {
         translation -1.44 0.025 -1.26
+        name "pole-0-1"
       }
       mazePole {
         translation -1.44 0.025 -1.08
+        name "pole-0-2"
       }
       mazePole {
         translation -1.44 0.025 -0.9
+        name "pole-0-3"
       }
       mazePole {
         translation -1.44 0.025 -0.72
+        name "pole-0-4"
       }
       mazePole {
         translation -1.44 0.025 -0.54
+        name "pole-0-5"
       }
       mazePole {
         translation -1.44 0.025 -0.36
+        name "pole-0-6"
       }
       mazePole {
         translation -1.44 0.025 -0.18
+        name "pole-0-7"
       }
       mazePole {
         translation -1.44 0.025 0.0
+        name "pole-0-8"
       }
       mazePole {
         translation -1.44 0.025 0.18
+        name "pole-0-9"
       }
       mazePole {
         translation -1.44 0.025 0.36
+        name "pole-0-10"
       }
       mazePole {
         translation -1.44 0.025 0.54
+        name "pole-0-11"
       }
       mazePole {
         translation -1.44 0.025 0.72
+        name "pole-0-12"
       }
       mazePole {
         translation -1.44 0.025 0.9
+        name "pole-0-13"
       }
       mazePole {
         translation -1.44 0.025 1.08
+        name "pole-0-14"
       }
       mazePole {
         translation -1.44 0.025 1.26
+        name "pole-0-15"
       }
       mazePole {
         translation -1.44 0.025 1.44
+        name "pole-0-16"
       }
       mazePole {
         translation -1.26 0.025 -1.44
+        name "pole-1-0"
       }
       mazePole {
         translation -1.26 0.025 -1.26
+        name "pole-1-1"
       }
       mazePole {
         translation -1.26 0.025 -1.08
+        name "pole-1-2"
       }
       mazePole {
         translation -1.26 0.025 -0.9
+        name "pole-1-3"
       }
       mazePole {
         translation -1.26 0.025 -0.72
+        name "pole-1-4"
       }
       mazePole {
         translation -1.26 0.025 -0.54
+        name "pole-1-5"
       }
       mazePole {
         translation -1.26 0.025 -0.36
+        name "pole-1-6"
       }
       mazePole {
         translation -1.26 0.025 -0.18
+        name "pole-1-7"
       }
       mazePole {
         translation -1.26 0.025 0.0
+        name "pole-1-8"
       }
       mazePole {
         translation -1.26 0.025 0.18
+        name "pole-1-9"
       }
       mazePole {
         translation -1.26 0.025 0.36
+        name "pole-1-10"
       }
       mazePole {
         translation -1.26 0.025 0.54
+        name "pole-1-11"
       }
       mazePole {
         translation -1.26 0.025 0.72
+        name "pole-1-12"
       }
       mazePole {
         translation -1.26 0.025 0.9
+        name "pole-1-13"
       }
       mazePole {
         translation -1.26 0.025 1.08
+        name "pole-1-14"
       }
       mazePole {
         translation -1.26 0.025 1.26
+        name "pole-1-15"
       }
       mazePole {
         translation -1.26 0.025 1.44
+        name "pole-1-16"
       }
       mazePole {
         translation -1.08 0.025 -1.44
+        name "pole-2-0"
       }
       mazePole {
         translation -1.08 0.025 -1.26
+        name "pole-2-1"
       }
       mazePole {
         translation -1.08 0.025 -1.08
+        name "pole-2-2"
       }
       mazePole {
         translation -1.08 0.025 -0.9
+        name "pole-2-3"
       }
       mazePole {
         translation -1.08 0.025 -0.72
+        name "pole-2-4"
       }
       mazePole {
         translation -1.08 0.025 -0.54
+        name "pole-2-5"
       }
       mazePole {
         translation -1.08 0.025 -0.36
+        name "pole-2-6"
       }
       mazePole {
         translation -1.08 0.025 -0.18
+        name "pole-2-7"
       }
       mazePole {
         translation -1.08 0.025 0.0
+        name "pole-2-8"
       }
       mazePole {
         translation -1.08 0.025 0.18
+        name "pole-2-9"
       }
       mazePole {
         translation -1.08 0.025 0.36
+        name "pole-2-10"
       }
       mazePole {
         translation -1.08 0.025 0.54
+        name "pole-2-11"
       }
       mazePole {
         translation -1.08 0.025 0.72
+        name "pole-2-12"
       }
       mazePole {
         translation -1.08 0.025 0.9
+        name "pole-2-13"
       }
       mazePole {
         translation -1.08 0.025 1.08
+        name "pole-2-14"
       }
       mazePole {
         translation -1.08 0.025 1.26
+        name "pole-2-15"
       }
       mazePole {
         translation -1.08 0.025 1.44
+        name "pole-2-16"
       }
       mazePole {
         translation -0.9 0.025 -1.44
+        name "pole-3-0"
       }
       mazePole {
         translation -0.9 0.025 -1.26
+        name "pole-3-1"
       }
       mazePole {
         translation -0.9 0.025 -1.08
+        name "pole-3-2"
       }
       mazePole {
         translation -0.9 0.025 -0.9
+        name "pole-3-3"
       }
       mazePole {
         translation -0.9 0.025 -0.72
+        name "pole-3-4"
       }
       mazePole {
         translation -0.9 0.025 -0.54
+        name "pole-3-5"
       }
       mazePole {
         translation -0.9 0.025 -0.36
+        name "pole-3-6"
       }
       mazePole {
         translation -0.9 0.025 -0.18
+        name "pole-3-7"
       }
       mazePole {
         translation -0.9 0.025 0.0
+        name "pole-3-8"
       }
       mazePole {
         translation -0.9 0.025 0.18
+        name "pole-3-9"
       }
       mazePole {
         translation -0.9 0.025 0.36
+        name "pole-3-10"
       }
       mazePole {
         translation -0.9 0.025 0.54
+        name "pole-3-11"
       }
       mazePole {
         translation -0.9 0.025 0.72
+        name "pole-3-12"
       }
       mazePole {
         translation -0.9 0.025 0.9
+        name "pole-3-13"
       }
       mazePole {
         translation -0.9 0.025 1.08
+        name "pole-3-14"
       }
       mazePole {
         translation -0.9 0.025 1.26
+        name "pole-3-15"
       }
       mazePole {
         translation -0.9 0.025 1.44
+        name "pole-3-16"
       }
       mazePole {
         translation -0.72 0.025 -1.44
+        name "pole-4-0"
       }
       mazePole {
         translation -0.72 0.025 -1.26
+        name "pole-4-1"
       }
       mazePole {
         translation -0.72 0.025 -1.08
+        name "pole-4-2"
       }
       mazePole {
         translation -0.72 0.025 -0.9
+        name "pole-4-3"
       }
       mazePole {
         translation -0.72 0.025 -0.72
+        name "pole-4-4"
       }
       mazePole {
         translation -0.72 0.025 -0.54
+        name "pole-4-5"
       }
       mazePole {
         translation -0.72 0.025 -0.36
+        name "pole-4-6"
       }
       mazePole {
         translation -0.72 0.025 -0.18
+        name "pole-4-7"
       }
       mazePole {
         translation -0.72 0.025 0.0
+        name "pole-4-8"
       }
       mazePole {
         translation -0.72 0.025 0.18
+        name "pole-4-9"
       }
       mazePole {
         translation -0.72 0.025 0.36
+        name "pole-4-10"
       }
       mazePole {
         translation -0.72 0.025 0.54
+        name "pole-4-11"
       }
       mazePole {
         translation -0.72 0.025 0.72
+        name "pole-4-12"
       }
       mazePole {
         translation -0.72 0.025 0.9
+        name "pole-4-13"
       }
       mazePole {
         translation -0.72 0.025 1.08
+        name "pole-4-14"
       }
       mazePole {
         translation -0.72 0.025 1.26
+        name "pole-4-15"
       }
       mazePole {
         translation -0.72 0.025 1.44
+        name "pole-4-16"
       }
       mazePole {
         translation -0.54 0.025 -1.44
+        name "pole-5-0"
       }
       mazePole {
         translation -0.54 0.025 -1.26
+        name "pole-5-1"
       }
       mazePole {
         translation -0.54 0.025 -1.08
+        name "pole-5-2"
       }
       mazePole {
         translation -0.54 0.025 -0.9
+        name "pole-5-3"
       }
       mazePole {
         translation -0.54 0.025 -0.72
+        name "pole-5-4"
       }
       mazePole {
         translation -0.54 0.025 -0.54
+        name "pole-5-5"
       }
       mazePole {
         translation -0.54 0.025 -0.36
+        name "pole-5-6"
       }
       mazePole {
         translation -0.54 0.025 -0.18
+        name "pole-5-7"
       }
       mazePole {
         translation -0.54 0.025 0.0
+        name "pole-5-8"
       }
       mazePole {
         translation -0.54 0.025 0.18
+        name "pole-5-9"
       }
       mazePole {
         translation -0.54 0.025 0.36
+        name "pole-5-10"
       }
       mazePole {
         translation -0.54 0.025 0.54
+        name "pole-5-11"
       }
       mazePole {
         translation -0.54 0.025 0.72
+        name "pole-5-12"
       }
       mazePole {
         translation -0.54 0.025 0.9
+        name "pole-5-13"
       }
       mazePole {
         translation -0.54 0.025 1.08
+        name "pole-5-14"
       }
       mazePole {
         translation -0.54 0.025 1.26
+        name "pole-5-15"
       }
       mazePole {
         translation -0.54 0.025 1.44
+        name "pole-5-16"
       }
       mazePole {
         translation -0.36 0.025 -1.44
+        name "pole-6-0"
       }
       mazePole {
         translation -0.36 0.025 -1.26
+        name "pole-6-1"
       }
       mazePole {
         translation -0.36 0.025 -1.08
+        name "pole-6-2"
       }
       mazePole {
         translation -0.36 0.025 -0.9
+        name "pole-6-3"
       }
       mazePole {
         translation -0.36 0.025 -0.72
+        name "pole-6-4"
       }
       mazePole {
         translation -0.36 0.025 -0.54
+        name "pole-6-5"
       }
       mazePole {
         translation -0.36 0.025 -0.36
+        name "pole-6-6"
       }
       mazePole {
         translation -0.36 0.025 -0.18
+        name "pole-6-7"
       }
       mazePole {
         translation -0.36 0.025 0.0
+        name "pole-6-8"
       }
       mazePole {
         translation -0.36 0.025 0.18
+        name "pole-6-9"
       }
       mazePole {
         translation -0.36 0.025 0.36
+        name "pole-6-10"
       }
       mazePole {
         translation -0.36 0.025 0.54
+        name "pole-6-11"
       }
       mazePole {
         translation -0.36 0.025 0.72
+        name "pole-6-12"
       }
       mazePole {
         translation -0.36 0.025 0.9
+        name "pole-6-13"
       }
       mazePole {
         translation -0.36 0.025 1.08
+        name "pole-6-14"
       }
       mazePole {
         translation -0.36 0.025 1.26
+        name "pole-6-15"
       }
       mazePole {
         translation -0.36 0.025 1.44
+        name "pole-6-16"
       }
       mazePole {
         translation -0.18 0.025 -1.44
+        name "pole-7-0"
       }
       mazePole {
         translation -0.18 0.025 -1.26
+        name "pole-7-1"
       }
       mazePole {
         translation -0.18 0.025 -1.08
+        name "pole-7-2"
       }
       mazePole {
         translation -0.18 0.025 -0.9
+        name "pole-7-3"
       }
       mazePole {
         translation -0.18 0.025 -0.72
+        name "pole-7-4"
       }
       mazePole {
         translation -0.18 0.025 -0.54
+        name "pole-7-5"
       }
       mazePole {
         translation -0.18 0.025 -0.36
+        name "pole-7-6"
       }
       mazePole {
         translation -0.18 0.025 -0.18
+        name "pole-7-7"
       }
       mazePole {
         translation -0.18 0.025 0.0
+        name "pole-7-8"
       }
       mazePole {
         translation -0.18 0.025 0.18
+        name "pole-7-9"
       }
       mazePole {
         translation -0.18 0.025 0.36
+        name "pole-7-10"
       }
       mazePole {
         translation -0.18 0.025 0.54
+        name "pole-7-11"
       }
       mazePole {
         translation -0.18 0.025 0.72
+        name "pole-7-12"
       }
       mazePole {
         translation -0.18 0.025 0.9
+        name "pole-7-13"
       }
       mazePole {
         translation -0.18 0.025 1.08
+        name "pole-7-14"
       }
       mazePole {
         translation -0.18 0.025 1.26
+        name "pole-7-15"
       }
       mazePole {
         translation -0.18 0.025 1.44
+        name "pole-7-16"
       }
       mazePole {
         translation 0.0 0.025 -1.44
+        name "pole-8-0"
       }
       mazePole {
         translation 0.0 0.025 -1.26
+        name "pole-8-1"
       }
       mazePole {
         translation 0.0 0.025 -1.08
+        name "pole-8-2"
       }
       mazePole {
         translation 0.0 0.025 -0.9
+        name "pole-8-3"
       }
       mazePole {
         translation 0.0 0.025 -0.72
+        name "pole-8-4"
       }
       mazePole {
         translation 0.0 0.025 -0.54
+        name "pole-8-5"
       }
       mazePole {
         translation 0.0 0.025 -0.36
+        name "pole-8-6"
       }
       mazePole {
         translation 0.0 0.025 -0.18
+        name "pole-8-7"
       }
       mazePole {
         translation 0.0 0.025 0.0
+        name "pole-8-8"
       }
       mazePole {
         translation 0.0 0.025 0.18
+        name "pole-8-9"
       }
       mazePole {
         translation 0.0 0.025 0.36
+        name "pole-8-10"
       }
       mazePole {
         translation 0.0 0.025 0.54
+        name "pole-8-11"
       }
       mazePole {
         translation 0.0 0.025 0.72
+        name "pole-8-12"
       }
       mazePole {
         translation 0.0 0.025 0.9
+        name "pole-8-13"
       }
       mazePole {
         translation 0.0 0.025 1.08
+        name "pole-8-14"
       }
       mazePole {
         translation 0.0 0.025 1.26
+        name "pole-8-15"
       }
       mazePole {
         translation 0.0 0.025 1.44
+        name "pole-8-16"
       }
       mazePole {
         translation 0.18 0.025 -1.44
+        name "pole-9-0"
       }
       mazePole {
         translation 0.18 0.025 -1.26
+        name "pole-9-1"
       }
       mazePole {
         translation 0.18 0.025 -1.08
+        name "pole-9-2"
       }
       mazePole {
         translation 0.18 0.025 -0.9
+        name "pole-9-3"
       }
       mazePole {
         translation 0.18 0.025 -0.72
+        name "pole-9-4"
       }
       mazePole {
         translation 0.18 0.025 -0.54
+        name "pole-9-5"
       }
       mazePole {
         translation 0.18 0.025 -0.36
+        name "pole-9-6"
       }
       mazePole {
         translation 0.18 0.025 -0.18
+        name "pole-9-7"
       }
       mazePole {
         translation 0.18 0.025 0.0
+        name "pole-9-8"
       }
       mazePole {
         translation 0.18 0.025 0.18
+        name "pole-9-9"
       }
       mazePole {
         translation 0.18 0.025 0.36
+        name "pole-9-10"
       }
       mazePole {
         translation 0.18 0.025 0.54
+        name "pole-9-11"
       }
       mazePole {
         translation 0.18 0.025 0.72
+        name "pole-9-12"
       }
       mazePole {
         translation 0.18 0.025 0.9
+        name "pole-9-13"
       }
       mazePole {
         translation 0.18 0.025 1.08
+        name "pole-9-14"
       }
       mazePole {
         translation 0.18 0.025 1.26
+        name "pole-9-15"
       }
       mazePole {
         translation 0.18 0.025 1.44
+        name "pole-9-16"
       }
       mazePole {
         translation 0.36 0.025 -1.44
+        name "pole-10-0"
       }
       mazePole {
         translation 0.36 0.025 -1.26
+        name "pole-10-1"
       }
       mazePole {
         translation 0.36 0.025 -1.08
+        name "pole-10-2"
       }
       mazePole {
         translation 0.36 0.025 -0.9
+        name "pole-10-3"
       }
       mazePole {
         translation 0.36 0.025 -0.72
+        name "pole-10-4"
       }
       mazePole {
         translation 0.36 0.025 -0.54
+        name "pole-10-5"
       }
       mazePole {
         translation 0.36 0.025 -0.36
+        name "pole-10-6"
       }
       mazePole {
         translation 0.36 0.025 -0.18
+        name "pole-10-7"
       }
       mazePole {
         translation 0.36 0.025 0.0
+        name "pole-10-8"
       }
       mazePole {
         translation 0.36 0.025 0.18
+        name "pole-10-9"
       }
       mazePole {
         translation 0.36 0.025 0.36
+        name "pole-10-10"
       }
       mazePole {
         translation 0.36 0.025 0.54
+        name "pole-10-11"
       }
       mazePole {
         translation 0.36 0.025 0.72
+        name "pole-10-12"
       }
       mazePole {
         translation 0.36 0.025 0.9
+        name "pole-10-13"
       }
       mazePole {
         translation 0.36 0.025 1.08
+        name "pole-10-14"
       }
       mazePole {
         translation 0.36 0.025 1.26
+        name "pole-10-15"
       }
       mazePole {
         translation 0.36 0.025 1.44
+        name "pole-10-16"
       }
       mazePole {
         translation 0.54 0.025 -1.44
+        name "pole-11-0"
       }
       mazePole {
         translation 0.54 0.025 -1.26
+        name "pole-11-1"
       }
       mazePole {
         translation 0.54 0.025 -1.08
+        name "pole-11-2"
       }
       mazePole {
         translation 0.54 0.025 -0.9
+        name "pole-11-3"
       }
       mazePole {
         translation 0.54 0.025 -0.72
+        name "pole-11-4"
       }
       mazePole {
         translation 0.54 0.025 -0.54
+        name "pole-11-5"
       }
       mazePole {
         translation 0.54 0.025 -0.36
+        name "pole-11-6"
       }
       mazePole {
         translation 0.54 0.025 -0.18
+        name "pole-11-7"
       }
       mazePole {
         translation 0.54 0.025 0.0
+        name "pole-11-8"
       }
       mazePole {
         translation 0.54 0.025 0.18
+        name "pole-11-9"
       }
       mazePole {
         translation 0.54 0.025 0.36
+        name "pole-11-10"
       }
       mazePole {
         translation 0.54 0.025 0.54
+        name "pole-11-11"
       }
       mazePole {
         translation 0.54 0.025 0.72
+        name "pole-11-12"
       }
       mazePole {
         translation 0.54 0.025 0.9
+        name "pole-11-13"
       }
       mazePole {
         translation 0.54 0.025 1.08
+        name "pole-11-14"
       }
       mazePole {
         translation 0.54 0.025 1.26
+        name "pole-11-15"
       }
       mazePole {
         translation 0.54 0.025 1.44
+        name "pole-11-16"
       }
       mazePole {
         translation 0.72 0.025 -1.44
+        name "pole-12-0"
       }
       mazePole {
         translation 0.72 0.025 -1.26
+        name "pole-12-1"
       }
       mazePole {
         translation 0.72 0.025 -1.08
+        name "pole-12-2"
       }
       mazePole {
         translation 0.72 0.025 -0.9
+        name "pole-12-3"
       }
       mazePole {
         translation 0.72 0.025 -0.72
+        name "pole-12-4"
       }
       mazePole {
         translation 0.72 0.025 -0.54
+        name "pole-12-5"
       }
       mazePole {
         translation 0.72 0.025 -0.36
+        name "pole-12-6"
       }
       mazePole {
         translation 0.72 0.025 -0.18
+        name "pole-12-7"
       }
       mazePole {
         translation 0.72 0.025 0.0
+        name "pole-12-8"
       }
       mazePole {
         translation 0.72 0.025 0.18
+        name "pole-12-9"
       }
       mazePole {
         translation 0.72 0.025 0.36
+        name "pole-12-10"
       }
       mazePole {
         translation 0.72 0.025 0.54
+        name "pole-12-11"
       }
       mazePole {
         translation 0.72 0.025 0.72
+        name "pole-12-12"
       }
       mazePole {
         translation 0.72 0.025 0.9
+        name "pole-12-13"
       }
       mazePole {
         translation 0.72 0.025 1.08
+        name "pole-12-14"
       }
       mazePole {
         translation 0.72 0.025 1.26
+        name "pole-12-15"
       }
       mazePole {
         translation 0.72 0.025 1.44
+        name "pole-12-16"
       }
       mazePole {
         translation 0.9 0.025 -1.44
+        name "pole-13-0"
       }
       mazePole {
         translation 0.9 0.025 -1.26
+        name "pole-13-1"
       }
       mazePole {
         translation 0.9 0.025 -1.08
+        name "pole-13-2"
       }
       mazePole {
         translation 0.9 0.025 -0.9
+        name "pole-13-3"
       }
       mazePole {
         translation 0.9 0.025 -0.72
+        name "pole-13-4"
       }
       mazePole {
         translation 0.9 0.025 -0.54
+        name "pole-13-5"
       }
       mazePole {
         translation 0.9 0.025 -0.36
+        name "pole-13-6"
       }
       mazePole {
         translation 0.9 0.025 -0.18
+        name "pole-13-7"
       }
       mazePole {
         translation 0.9 0.025 0.0
+        name "pole-13-8"
       }
       mazePole {
         translation 0.9 0.025 0.18
+        name "pole-13-9"
       }
       mazePole {
         translation 0.9 0.025 0.36
+        name "pole-13-10"
       }
       mazePole {
         translation 0.9 0.025 0.54
+        name "pole-13-11"
       }
       mazePole {
         translation 0.9 0.025 0.72
+        name "pole-13-12"
       }
       mazePole {
         translation 0.9 0.025 0.9
+        name "pole-13-13"
       }
       mazePole {
         translation 0.9 0.025 1.08
+        name "pole-13-14"
       }
       mazePole {
         translation 0.9 0.025 1.26
+        name "pole-13-15"
       }
       mazePole {
         translation 0.9 0.025 1.44
+        name "pole-13-16"
       }
       mazePole {
         translation 1.08 0.025 -1.44
+        name "pole-14-0"
       }
       mazePole {
         translation 1.08 0.025 -1.26
+        name "pole-14-1"
       }
       mazePole {
         translation 1.08 0.025 -1.08
+        name "pole-14-2"
       }
       mazePole {
         translation 1.08 0.025 -0.9
+        name "pole-14-3"
       }
       mazePole {
         translation 1.08 0.025 -0.72
+        name "pole-14-4"
       }
       mazePole {
         translation 1.08 0.025 -0.54
+        name "pole-14-5"
       }
       mazePole {
         translation 1.08 0.025 -0.36
+        name "pole-14-6"
       }
       mazePole {
         translation 1.08 0.025 -0.18
+        name "pole-14-7"
       }
       mazePole {
         translation 1.08 0.025 0.0
+        name "pole-14-8"
       }
       mazePole {
         translation 1.08 0.025 0.18
+        name "pole-14-9"
       }
       mazePole {
         translation 1.08 0.025 0.36
+        name "pole-14-10"
       }
       mazePole {
         translation 1.08 0.025 0.54
+        name "pole-14-11"
       }
       mazePole {
         translation 1.08 0.025 0.72
+        name "pole-14-12"
       }
       mazePole {
         translation 1.08 0.025 0.9
+        name "pole-14-13"
       }
       mazePole {
         translation 1.08 0.025 1.08
+        name "pole-14-14"
       }
       mazePole {
         translation 1.08 0.025 1.26
+        name "pole-14-15"
       }
       mazePole {
         translation 1.08 0.025 1.44
+        name "pole-14-16"
       }
       mazePole {
         translation 1.26 0.025 -1.44
+        name "pole-15-0"
       }
       mazePole {
         translation 1.26 0.025 -1.26
+        name "pole-15-1"
       }
       mazePole {
         translation 1.26 0.025 -1.08
+        name "pole-15-2"
       }
       mazePole {
         translation 1.26 0.025 -0.9
+        name "pole-15-3"
       }
       mazePole {
         translation 1.26 0.025 -0.72
+        name "pole-15-4"
       }
       mazePole {
         translation 1.26 0.025 -0.54
+        name "pole-15-5"
       }
       mazePole {
         translation 1.26 0.025 -0.36
+        name "pole-15-6"
       }
       mazePole {
         translation 1.26 0.025 -0.18
+        name "pole-15-7"
       }
       mazePole {
         translation 1.26 0.025 0.0
+        name "pole-15-8"
       }
       mazePole {
         translation 1.26 0.025 0.18
+        name "pole-15-9"
       }
       mazePole {
         translation 1.26 0.025 0.36
+        name "pole-15-10"
       }
       mazePole {
         translation 1.26 0.025 0.54
+        name "pole-15-11"
       }
       mazePole {
         translation 1.26 0.025 0.72
+        name "pole-15-12"
       }
       mazePole {
         translation 1.26 0.025 0.9
+        name "pole-15-13"
       }
       mazePole {
         translation 1.26 0.025 1.08
+        name "pole-15-14"
       }
       mazePole {
         translation 1.26 0.025 1.26
+        name "pole-15-15"
       }
       mazePole {
         translation 1.26 0.025 1.44
+        name "pole-15-16"
       }
       mazePole {
         translation 1.44 0.025 -1.44
+        name "pole-16-0"
       }
       mazePole {
         translation 1.44 0.025 -1.26
+        name "pole-16-1"
       }
       mazePole {
         translation 1.44 0.025 -1.08
+        name "pole-16-2"
       }
       mazePole {
         translation 1.44 0.025 -0.9
+        name "pole-16-3"
       }
       mazePole {
         translation 1.44 0.025 -0.72
+        name "pole-16-4"
       }
       mazePole {
         translation 1.44 0.025 -0.54
+        name "pole-16-5"
       }
       mazePole {
         translation 1.44 0.025 -0.36
+        name "pole-16-6"
       }
       mazePole {
         translation 1.44 0.025 -0.18
+        name "pole-16-7"
       }
       mazePole {
         translation 1.44 0.025 0.0
+        name "pole-16-8"
       }
       mazePole {
         translation 1.44 0.025 0.18
+        name "pole-16-9"
       }
       mazePole {
         translation 1.44 0.025 0.36
+        name "pole-16-10"
       }
       mazePole {
         translation 1.44 0.025 0.54
+        name "pole-16-11"
       }
       mazePole {
         translation 1.44 0.025 0.72
+        name "pole-16-12"
       }
       mazePole {
         translation 1.44 0.025 0.9
+        name "pole-16-13"
       }
       mazePole {
         translation 1.44 0.025 1.08
+        name "pole-16-14"
       }
       mazePole {
         translation 1.44 0.025 1.26
+        name "pole-16-15"
       }
       mazePole {
         translation 1.44 0.025 1.44
+        name "pole-16-16"
       }
       mazeWall {
         translation -1.35 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-0-0"
       }
       mazeWall {
         translation -1.44 0.025 -1.35
         rotation 0 1 0 1.5708
+        name "wall-0-1"
       }
       mazeWall {
         translation -1.17 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-1-0"
       }
       mazeWall {
         translation -1.44 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wall-0-2"
       }
       mazeWall {
         translation -0.99 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-2-0"
       }
       mazeWall {
         translation -1.44 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wall-0-3"
       }
       mazeWall {
         translation -0.81 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-3-0"
       }
       mazeWall {
         translation -1.44 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wall-0-4"
       }
       mazeWall {
         translation -0.63 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-4-0"
       }
       mazeWall {
         translation -1.44 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wall-0-5"
       }
       mazeWall {
         translation -0.45 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-5-0"
       }
       mazeWall {
         translation -1.44 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wall-0-6"
       }
       mazeWall {
         translation -0.27 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-6-0"
       }
       mazeWall {
         translation -1.44 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wall-0-7"
       }
       mazeWall {
         translation -0.09 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-7-0"
       }
       mazeWall {
         translation -1.44 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wall-0-8"
       }
       mazeWall {
         translation 0.09 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-8-0"
       }
       mazeWall {
         translation -1.44 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wall-0-9"
       }
       mazeWall {
         translation 0.27 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-9-0"
       }
       mazeWall {
         translation -1.44 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wall-0-10"
       }
       mazeWall {
         translation 0.45 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-10-0"
       }
       mazeWall {
         translation -1.44 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wall-0-11"
       }
       mazeWall {
         translation 0.63 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-11-0"
       }
       mazeWall {
         translation -1.44 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wall-0-12"
       }
       mazeWall {
         translation 0.81 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-12-0"
       }
       mazeWall {
         translation -1.44 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wall-0-13"
       }
       mazeWall {
         translation 0.99 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-13-0"
       }
       mazeWall {
         translation -1.44 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wall-0-14"
       }
       mazeWall {
         translation 1.17 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-14-0"
       }
       mazeWall {
         translation -1.44 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wall-0-15"
       }
       mazeWall {
         translation 1.35 0.025 -1.44
         rotation 0 1 0 0
+        name "wall-15-0"
       }
       mazeWall {
         translation -1.44 0.025 1.35
         rotation 0 1 0 1.5708
+        name "wall-0-16"
       }
       mazeWall {
         translation -1.35 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-1-1"
       }
       mazeWall {
         translation -1.35 0.025 -0.9
         rotation 0 1 0 0
+        name "wallB-1-3"
       }
       mazeWall {
         translation -1.26 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-1-4"
       }
       mazeWall {
         translation -1.35 0.025 -0.54
         rotation 0 1 0 0
+        name "wallB-1-5"
       }
       mazeWall {
         translation -1.26 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-1-6"
       }
       mazeWall {
         translation -1.35 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-1-7"
       }
       mazeWall {
         translation -1.35 0.025 0.0
         rotation 0 1 0 0
+        name "wallB-1-8"
       }
       mazeWall {
         translation -1.35 0.025 0.18
         rotation 0 1 0 0
+        name "wallB-1-9"
       }
       mazeWall {
         translation -1.35 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-1-10"
       }
       mazeWall {
         translation -1.26 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-1-11"
       }
       mazeWall {
         translation -1.35 0.025 0.72
         rotation 0 1 0 0
+        name "wallB-1-12"
       }
       mazeWall {
         translation -1.26 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-1-13"
       }
       mazeWall {
         translation -1.35 0.025 1.08
         rotation 0 1 0 0
+        name "wallB-1-14"
       }
       mazeWall {
         translation -1.26 0.025 1.35
         rotation 0 1 0 1.5708
+        name "wallA-1-16"
       }
       mazeWall {
         translation -1.35 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-1-16"
       }
       mazeWall {
         translation -1.17 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-2-1"
       }
       mazeWall {
         translation -1.17 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-2-2"
       }
       mazeWall {
         translation -1.08 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-2-4"
       }
       mazeWall {
         translation -1.08 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-2-5"
       }
       mazeWall {
         translation -1.08 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-2-6"
       }
       mazeWall {
         translation -1.08 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-2-12"
       }
       mazeWall {
         translation -1.08 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-2-15"
       }
       mazeWall {
         translation -1.17 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-2-16"
       }
       mazeWall {
         translation -0.99 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-3-1"
       }
       mazeWall {
         translation -0.99 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-3-2"
       }
       mazeWall {
         translation -0.9 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-3-3"
       }
       mazeWall {
         translation -0.99 0.025 -0.72
         rotation 0 1 0 0
+        name "wallB-3-4"
       }
       mazeWall {
         translation -0.9 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-3-5"
       }
       mazeWall {
         translation -0.9 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-3-6"
       }
       mazeWall {
         translation -0.9 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-3-7"
       }
       mazeWall {
         translation -0.99 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-3-7"
       }
       mazeWall {
         translation -0.9 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-3-8"
       }
       mazeWall {
         translation -0.99 0.025 0.0
         rotation 0 1 0 0
+        name "wallB-3-8"
       }
       mazeWall {
         translation -0.9 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-3-9"
       }
       mazeWall {
         translation -0.99 0.025 0.18
         rotation 0 1 0 0
+        name "wallB-3-9"
       }
       mazeWall {
         translation -0.9 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-3-10"
       }
       mazeWall {
         translation -0.99 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-3-10"
       }
       mazeWall {
         translation -0.9 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-3-11"
       }
       mazeWall {
         translation -0.99 0.025 0.54
         rotation 0 1 0 0
+        name "wallB-3-11"
       }
       mazeWall {
         translation -0.9 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-3-12"
       }
       mazeWall {
         translation -0.9 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-3-13"
       }
       mazeWall {
         translation -0.99 0.025 0.9
         rotation 0 1 0 0
+        name "wallB-3-13"
       }
       mazeWall {
         translation -0.9 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wallA-3-14"
       }
       mazeWall {
         translation -0.99 0.025 1.08
         rotation 0 1 0 0
+        name "wallB-3-14"
       }
       mazeWall {
         translation -0.99 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-3-16"
       }
       mazeWall {
         translation -0.81 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-4-1"
       }
       mazeWall {
         translation -0.81 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-4-2"
       }
       mazeWall {
         translation -0.81 0.025 -0.72
         rotation 0 1 0 0
+        name "wallB-4-4"
       }
       mazeWall {
         translation -0.72 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-4-5"
       }
       mazeWall {
         translation -0.72 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-4-7"
       }
       mazeWall {
         translation -0.72 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-4-9"
       }
       mazeWall {
         translation -0.81 0.025 0.18
         rotation 0 1 0 0
+        name "wallB-4-9"
       }
       mazeWall {
         translation -0.72 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-4-10"
       }
       mazeWall {
         translation -0.72 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-4-11"
       }
       mazeWall {
         translation -0.72 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-4-13"
       }
       mazeWall {
         translation -0.72 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-4-15"
       }
       mazeWall {
         translation -0.81 0.025 1.26
         rotation 0 1 0 0
+        name "wallB-4-15"
       }
       mazeWall {
         translation -0.81 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-4-16"
       }
       mazeWall {
         translation -0.63 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-5-1"
       }
       mazeWall {
         translation -0.63 0.025 -0.9
         rotation 0 1 0 0
+        name "wallB-5-3"
       }
       mazeWall {
         translation -0.54 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-5-4"
       }
       mazeWall {
         translation -0.63 0.025 -0.72
         rotation 0 1 0 0
+        name "wallB-5-4"
       }
       mazeWall {
         translation -0.54 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-5-6"
       }
       mazeWall {
         translation -0.54 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-5-8"
       }
       mazeWall {
         translation -0.54 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-5-10"
       }
       mazeWall {
         translation -0.63 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-5-10"
       }
       mazeWall {
         translation -0.54 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-5-12"
       }
       mazeWall {
         translation -0.54 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wallA-5-14"
       }
       mazeWall {
         translation -0.63 0.025 1.08
         rotation 0 1 0 0
+        name "wallB-5-14"
       }
       mazeWall {
         translation -0.54 0.025 1.35
         rotation 0 1 0 1.5708
+        name "wallA-5-16"
       }
       mazeWall {
         translation -0.63 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-5-16"
       }
       mazeWall {
         translation -0.36 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wallA-6-2"
       }
       mazeWall {
         translation -0.45 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-6-2"
       }
       mazeWall {
         translation -0.36 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-6-3"
       }
       mazeWall {
         translation -0.45 0.025 -0.9
         rotation 0 1 0 0
+        name "wallB-6-3"
       }
       mazeWall {
         translation -0.36 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-6-5"
       }
       mazeWall {
         translation -0.36 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-6-7"
       }
       mazeWall {
         translation -0.36 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-6-9"
       }
       mazeWall {
         translation -0.45 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-6-10"
       }
       mazeWall {
         translation -0.36 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-6-11"
       }
       mazeWall {
         translation -0.36 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-6-13"
       }
       mazeWall {
         translation -0.45 0.025 0.9
         rotation 0 1 0 0
+        name "wallB-6-13"
       }
       mazeWall {
         translation -0.36 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-6-15"
       }
       mazeWall {
         translation -0.45 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-6-16"
       }
       mazeWall {
         translation -0.27 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-7-2"
       }
       mazeWall {
         translation -0.18 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-7-3"
       }
       mazeWall {
         translation -0.18 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-7-5"
       }
       mazeWall {
         translation -0.27 0.025 -0.54
         rotation 0 1 0 0
+        name "wallB-7-5"
       }
       mazeWall {
         translation -0.18 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-7-7"
       }
       mazeWall {
         translation -0.27 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-7-7"
       }
       mazeWall {
         translation -0.18 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-7-8"
       }
       mazeWall {
         translation -0.18 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-7-9"
       }
       mazeWall {
         translation -0.27 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-7-10"
       }
       mazeWall {
         translation -0.18 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-7-12"
       }
       mazeWall {
         translation -0.18 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wallA-7-14"
       }
       mazeWall {
         translation -0.18 0.025 1.35
         rotation 0 1 0 1.5708
+        name "wallA-7-16"
       }
       mazeWall {
         translation -0.27 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-7-16"
       }
       mazeWall {
         translation -0.09 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-8-1"
       }
       mazeWall {
         translation 0.0 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wallA-8-2"
       }
       mazeWall {
         translation -0.09 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-8-2"
       }
       mazeWall {
         translation 0.0 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-8-4"
       }
       mazeWall {
         translation 0.0 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-8-6"
       }
       mazeWall {
         translation -0.09 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-8-7"
       }
       mazeWall {
         translation -0.09 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-8-10"
       }
       mazeWall {
         translation 0.0 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-8-11"
       }
       mazeWall {
         translation -0.09 0.025 0.54
         rotation 0 1 0 0
+        name "wallB-8-11"
       }
       mazeWall {
         translation 0.0 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-8-13"
       }
       mazeWall {
         translation -0.09 0.025 0.9
         rotation 0 1 0 0
+        name "wallB-8-13"
       }
       mazeWall {
         translation 0.0 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-8-15"
       }
       mazeWall {
         translation -0.09 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-8-16"
       }
       mazeWall {
         translation 0.09 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-9-1"
       }
       mazeWall {
         translation 0.18 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-9-3"
       }
       mazeWall {
         translation 0.18 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-9-7"
       }
       mazeWall {
         translation 0.09 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-9-7"
       }
       mazeWall {
         translation 0.18 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-9-8"
       }
       mazeWall {
         translation 0.18 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-9-9"
       }
       mazeWall {
         translation 0.09 0.025 0.18
         rotation 0 1 0 0
+        name "wallB-9-9"
       }
       mazeWall {
         translation 0.18 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-9-10"
       }
       mazeWall {
         translation 0.09 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-9-10"
       }
       mazeWall {
         translation 0.18 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-9-12"
       }
       mazeWall {
         translation 0.18 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-9-15"
       }
       mazeWall {
         translation 0.09 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-9-16"
       }
       mazeWall {
         translation 0.27 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-10-1"
       }
       mazeWall {
         translation 0.27 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-10-2"
       }
       mazeWall {
         translation 0.36 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-10-3"
       }
       mazeWall {
         translation 0.27 0.025 -0.72
         rotation 0 1 0 0
+        name "wallB-10-4"
       }
       mazeWall {
         translation 0.36 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-10-5"
       }
       mazeWall {
         translation 0.27 0.025 -0.54
         rotation 0 1 0 0
+        name "wallB-10-5"
       }
       mazeWall {
         translation 0.36 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-10-6"
       }
       mazeWall {
         translation 0.36 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-10-8"
       }
       mazeWall {
         translation 0.27 0.025 0.0
         rotation 0 1 0 0
+        name "wallB-10-8"
       }
       mazeWall {
         translation 0.36 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-10-9"
       }
       mazeWall {
         translation 0.27 0.025 0.54
         rotation 0 1 0 0
+        name "wallB-10-11"
       }
       mazeWall {
         translation 0.27 0.025 0.72
         rotation 0 1 0 0
+        name "wallB-10-12"
       }
       mazeWall {
         translation 0.27 0.025 0.9
         rotation 0 1 0 0
+        name "wallB-10-13"
       }
       mazeWall {
         translation 0.27 0.025 1.08
         rotation 0 1 0 0
+        name "wallB-10-14"
       }
       mazeWall {
         translation 0.36 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-10-15"
       }
       mazeWall {
         translation 0.27 0.025 1.26
         rotation 0 1 0 0
+        name "wallB-10-15"
       }
       mazeWall {
         translation 0.27 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-10-16"
       }
       mazeWall {
         translation 0.45 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-11-1"
       }
       mazeWall {
         translation 0.54 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-11-3"
       }
       mazeWall {
         translation 0.45 0.025 -0.9
         rotation 0 1 0 0
+        name "wallB-11-3"
       }
       mazeWall {
         translation 0.54 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-11-6"
       }
       mazeWall {
         translation 0.45 0.025 0.0
         rotation 0 1 0 0
+        name "wallB-11-8"
       }
       mazeWall {
         translation 0.45 0.025 0.36
         rotation 0 1 0 0
+        name "wallB-11-10"
       }
       mazeWall {
         translation 0.45 0.025 0.54
         rotation 0 1 0 0
+        name "wallB-11-11"
       }
       mazeWall {
         translation 0.54 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-11-12"
       }
       mazeWall {
         translation 0.45 0.025 0.72
         rotation 0 1 0 0
+        name "wallB-11-12"
       }
       mazeWall {
         translation 0.45 0.025 0.9
         rotation 0 1 0 0
+        name "wallB-11-13"
       }
       mazeWall {
         translation 0.45 0.025 1.08
         rotation 0 1 0 0
+        name "wallB-11-14"
       }
       mazeWall {
         translation 0.54 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-11-15"
       }
       mazeWall {
         translation 0.45 0.025 1.26
         rotation 0 1 0 0
+        name "wallB-11-15"
       }
       mazeWall {
         translation 0.45 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-11-16"
       }
       mazeWall {
         translation 0.63 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-12-1"
       }
       mazeWall {
         translation 0.72 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wallA-12-2"
       }
       mazeWall {
         translation 0.72 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-12-4"
       }
       mazeWall {
         translation 0.63 0.025 -0.72
         rotation 0 1 0 0
+        name "wallB-12-4"
       }
       mazeWall {
         translation 0.72 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-12-5"
       }
       mazeWall {
         translation 0.72 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-12-7"
       }
       mazeWall {
         translation 0.63 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-12-7"
       }
       mazeWall {
         translation 0.72 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-12-8"
       }
       mazeWall {
         translation 0.72 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-12-9"
       }
       mazeWall {
         translation 0.63 0.025 0.18
         rotation 0 1 0 0
+        name "wallB-12-9"
       }
       mazeWall {
         translation 0.72 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-12-10"
       }
       mazeWall {
         translation 0.72 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-12-12"
       }
       mazeWall {
         translation 0.72 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-12-13"
       }
       mazeWall {
         translation 0.72 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wallA-12-14"
       }
       mazeWall {
         translation 0.72 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-12-15"
       }
       mazeWall {
         translation 0.72 0.025 1.35
         rotation 0 1 0 1.5708
+        name "wallA-12-16"
       }
       mazeWall {
         translation 0.63 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-12-16"
       }
       mazeWall {
         translation 0.81 0.025 -1.08
         rotation 0 1 0 0
+        name "wallB-13-2"
       }
       mazeWall {
         translation 0.9 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-13-3"
       }
       mazeWall {
         translation 0.9 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-13-4"
       }
       mazeWall {
         translation 0.9 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-13-5"
       }
       mazeWall {
         translation 0.9 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-13-6"
       }
       mazeWall {
         translation 0.9 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-13-9"
       }
       mazeWall {
         translation 0.9 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-13-11"
       }
       mazeWall {
         translation 0.9 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-13-13"
       }
       mazeWall {
         translation 0.9 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-13-15"
       }
       mazeWall {
         translation 0.81 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-13-16"
       }
       mazeWall {
         translation 0.99 0.025 -1.26
         rotation 0 1 0 0
+        name "wallB-14-1"
       }
       mazeWall {
         translation 1.08 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wallA-14-2"
       }
       mazeWall {
         translation 0.99 0.025 -0.9
         rotation 0 1 0 0
+        name "wallB-14-3"
       }
       mazeWall {
         translation 1.08 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-14-4"
       }
       mazeWall {
         translation 1.08 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-14-6"
       }
       mazeWall {
         translation 1.08 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-14-7"
       }
       mazeWall {
         translation 0.99 0.025 -0.18
         rotation 0 1 0 0
+        name "wallB-14-7"
       }
       mazeWall {
         translation 1.08 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-14-8"
       }
       mazeWall {
         translation 1.08 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-14-10"
       }
       mazeWall {
         translation 1.08 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-14-12"
       }
       mazeWall {
         translation 1.08 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-14-13"
       }
       mazeWall {
         translation 1.08 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wallA-14-14"
       }
       mazeWall {
         translation 1.08 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-14-15"
       }
       mazeWall {
         translation 0.99 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-14-16"
       }
       mazeWall {
         translation 1.26 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wallA-15-2"
       }
       mazeWall {
         translation 1.26 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-15-3"
       }
       mazeWall {
         translation 1.17 0.025 -0.72
         rotation 0 1 0 0
+        name "wallB-15-4"
       }
       mazeWall {
         translation 1.26 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-15-5"
       }
       mazeWall {
         translation 1.26 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-15-6"
       }
       mazeWall {
         translation 1.26 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-15-7"
       }
       mazeWall {
         translation 1.26 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-15-8"
       }
       mazeWall {
         translation 1.26 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-15-9"
       }
       mazeWall {
         translation 1.26 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-15-10"
       }
       mazeWall {
         translation 1.26 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-15-11"
       }
       mazeWall {
         translation 1.26 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-15-12"
       }
       mazeWall {
         translation 1.26 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-15-13"
       }
       mazeWall {
         translation 1.26 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-15-15"
       }
       mazeWall {
         translation 1.17 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-15-16"
       }
       mazeWall {
         translation 1.44 0.025 -1.35
         rotation 0 1 0 1.5708
+        name "wallA-16-1"
       }
       mazeWall {
         translation 1.44 0.025 -1.17
         rotation 0 1 0 1.5708
+        name "wallA-16-2"
       }
       mazeWall {
         translation 1.44 0.025 -0.99
         rotation 0 1 0 1.5708
+        name "wallA-16-3"
       }
       mazeWall {
         translation 1.44 0.025 -0.81
         rotation 0 1 0 1.5708
+        name "wallA-16-4"
       }
       mazeWall {
         translation 1.44 0.025 -0.63
         rotation 0 1 0 1.5708
+        name "wallA-16-5"
       }
       mazeWall {
         translation 1.44 0.025 -0.45
         rotation 0 1 0 1.5708
+        name "wallA-16-6"
       }
       mazeWall {
         translation 1.44 0.025 -0.27
         rotation 0 1 0 1.5708
+        name "wallA-16-7"
       }
       mazeWall {
         translation 1.44 0.025 -0.09
         rotation 0 1 0 1.5708
+        name "wallA-16-8"
       }
       mazeWall {
         translation 1.44 0.025 0.09
         rotation 0 1 0 1.5708
+        name "wallA-16-9"
       }
       mazeWall {
         translation 1.44 0.025 0.27
         rotation 0 1 0 1.5708
+        name "wallA-16-10"
       }
       mazeWall {
         translation 1.44 0.025 0.45
         rotation 0 1 0 1.5708
+        name "wallA-16-11"
       }
       mazeWall {
         translation 1.44 0.025 0.63
         rotation 0 1 0 1.5708
+        name "wallA-16-12"
       }
       mazeWall {
         translation 1.44 0.025 0.81
         rotation 0 1 0 1.5708
+        name "wallA-16-13"
       }
       mazeWall {
         translation 1.44 0.025 0.99
         rotation 0 1 0 1.5708
+        name "wallA-16-14"
       }
       mazeWall {
         translation 1.44 0.025 1.17
         rotation 0 1 0 1.5708
+        name "wallA-16-15"
       }
       mazeWall {
         translation 1.44 0.025 1.35
         rotation 0 1 0 1.5708
+        name "wallA-16-16"
       }
       mazeWall {
         translation 1.35 0.025 1.44
         rotation 0 1 0 0
+        name "wallB-16-16"
       }
     ]
   }

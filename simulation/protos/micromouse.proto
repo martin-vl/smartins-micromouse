@@ -4,6 +4,13 @@ PROTO micromouse [
   field SFString           name                         "micromouse"
   field SFString           controller                   "void"
   field SFBool             supervisor                   FALSE
+  field SFString           sensorLname                  "sensorL"
+  field SFString           sensorLFname                 "sensorLF"
+  field SFString           sensorFname                  "sensorF"
+  field SFString           sensorRFname                 "sensorRF"
+  field SFString           sensorRname                  "sensorR"
+  field SFString           motorLname                   "motorL"
+  field SFString           motorRname                   "motorR"
 ]
 {
   Robot {
@@ -30,7 +37,7 @@ PROTO micromouse [
                 }
               }
             ]
-            name "sensorL(4)"
+            name IS sensorLname
           }
         ]
       }
@@ -54,7 +61,7 @@ PROTO micromouse [
                 }
               }
             ]
-            name "sensorLF"
+            name IS sensorLFname
           }
         ]
       }
@@ -77,7 +84,7 @@ PROTO micromouse [
                 }
               }
             ]
-            name "sensorF"
+            name IS sensorFname
           }
         ]
       }
@@ -101,7 +108,7 @@ PROTO micromouse [
                 }
               }
             ]
-            name "sensorRF"
+            name IS sensorRFname
           }
         ]
       }
@@ -125,17 +132,18 @@ PROTO micromouse [
                 }
               }
             ]
-            name "sensorR"
+            name IS sensorRname
           }
         ]
       }
       DEF MotorActuatorL HingeJoint {
         jointParameters HingeJointParameters {
+          axis -1 0 0
           anchor -0.0405 0.016 0
         }
         device [
           RotationalMotor {
-            name "MotorL"
+            name IS motorLname
           }
         ]
         endPoint Solid {
@@ -179,11 +187,12 @@ PROTO micromouse [
       }
       DEF MotorActuatorR HingeJoint {
         jointParameters HingeJointParameters {
+          axis -1 0 0
           anchor 0.0405 0.016 0
         }
         device [
           RotationalMotor {
-            name "MotorR"
+            name IS motorRname
           }
         ]
         endPoint Solid {
