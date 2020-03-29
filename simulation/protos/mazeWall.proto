@@ -1,5 +1,5 @@
 PROTO mazeWall [
-  field SFVec3f    translation  0 0 0
+  field SFVec3f    translation  0 0.025 0
   field SFRotation rotation     0 1 0 0
 ]
 {

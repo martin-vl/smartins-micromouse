@@ -1,0 +1,7 @@
+PROTO maze [
+  field SFVec3f    translation  0 0 0
+]
+{
+  Transform {
+    translation IS translation
+    children [
