@@ -3,6 +3,7 @@ PROTO micromouse [
   field SFRotation         rotation                     0 1 0 0
   field SFString           name                         "micromouse"
   field SFString           controller                   "void"
+  field SFString           window                       ""
   field SFBool             supervisor                   FALSE
   field SFString           sensorLname                  "sensorL"
   field SFString           sensorLFname                 "sensorLF"
@@ -38,6 +39,10 @@ PROTO micromouse [
               }
             ]
             name IS sensorLname
+            lookupTable [
+              0	0	0,
+              0.15	150	0.013
+            ]
           }
         ]
       }
@@ -62,6 +67,10 @@ PROTO micromouse [
               }
             ]
             name IS sensorLFname
+            lookupTable [
+              0	0	0,
+              0.15	150	0.013
+            ]
           }
         ]
       }
@@ -85,6 +94,10 @@ PROTO micromouse [
               }
             ]
             name IS sensorFname
+            lookupTable [
+              0	0	0,
+              0.15	150	0.013
+            ]
           }
         ]
       }
@@ -109,6 +122,10 @@ PROTO micromouse [
               }
             ]
             name IS sensorRFname
+            lookupTable [
+              0	0	0,
+              0.15	150	0.013
+            ]
           }
         ]
       }
@@ -133,6 +150,10 @@ PROTO micromouse [
               }
             ]
             name IS sensorRname
+            lookupTable [
+              0	0	0,
+              0.15	150	0.013
+            ]
           }
         ]
       }
@@ -283,30 +304,31 @@ PROTO micromouse [
       }
     ]
     boundingObject Group {
-    children [
-      Transform {
-        translation 0 0.0139 -0.029
-        children [
-          Cylinder {
-            height 0.027
-            radius 0.044
-          }
-        ]
-      }
-      Transform {
-        translation 0 0.0139 0.008
-        children [
-          Box {
-            size 0.088 0.027 0.074
-          }
-        ]
-      }
-    ]
-  }
-  physics Physics {
-  }
+      children [
+        Transform {
+          translation 0 0.0139 -0.029
+          children [
+            Cylinder {
+              height 0.027
+              radius 0.044
+            }
+          ]
+        }
+        Transform {
+          translation 0 0.0139 0.008
+          children [
+            Box {
+              size 0.088 0.027 0.074
+            }
+          ]
+        }
+      ]
+    }
+    physics Physics {
+    }
     name IS name
     controller IS controller
     supervisor IS supervisor
+    window IS window
   }
 }

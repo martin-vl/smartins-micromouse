@@ -17,11 +17,13 @@
 #include <webots/motor.h>
 #include <webots/nodes.h>
 #include <webots/robot.h>
+#include <webots/utils/default_robot_window.h>
 
 int time_step;
 
 /* Motor device */
 static WbDeviceTag motorL, motorR;
+static WbDeviceTag sensL, sensLF, sensF, sensRF, sensR;
 
 /* Angular speed in rad/s */
 #define MAX_SPEED 6.28
@@ -53,6 +55,18 @@ static void init_robot() {
   wb_motor_set_position(motorR, INFINITY);
   wb_motor_set_velocity(motorL, 0.0);
   wb_motor_set_velocity(motorR, 0.0);
+
+  // init sensors
+  sensL  = wb_robot_get_device("sensorL");
+  sensLF = wb_robot_get_device("sensorLF");
+  sensF  = wb_robot_get_device("sensorF");
+  sensRF = wb_robot_get_device("sensorRF");
+  sensR  = wb_robot_get_device("sensorR");
+  wb_distance_sensor_enable(sensL, time_step);
+  wb_distance_sensor_enable(sensLF, time_step);
+  wb_distance_sensor_enable(sensF, time_step);
+  wb_distance_sensor_enable(sensRF, time_step);
+  wb_distance_sensor_enable(sensR, time_step);
 }
 
 /* main function */
@@ -71,6 +85,18 @@ int main(int argc, char **argv) {
      * move the robot forward
      * */
     move_forward();
+
+    char sensor_message[256];
+    // we need to fit the sensor values in the range [0;100], hence the divisions
+    snprintf(sensor_message, 256, "%.0f %.0f %.0f %.0f %.0f %.2f %.2f",
+             wb_distance_sensor_get_value(sensL),
+             wb_distance_sensor_get_value(sensLF),
+             wb_distance_sensor_get_value(sensF),
+             wb_distance_sensor_get_value(sensRF),
+             wb_distance_sensor_get_value(sensR),
+             wb_motor_get_velocity(motorL),
+             wb_motor_get_velocity(motorR));
+    wb_robot_wwi_send_text(sensor_message);
   };
 
   /* Enter your cleanup code here */

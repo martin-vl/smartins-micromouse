@@ -22,6 +22,7 @@ micromouse {
   translation -1.35 0 -1.35
   rotation 0 1 0 -1.5708
   controller "micromouse_controller"
+  window "micromouseWindow"
 }
 maze {
 }
