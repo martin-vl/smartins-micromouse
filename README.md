@@ -23,11 +23,13 @@ A Micromouse project
 ![Render](docs/images/simulation-20200329.png)
 
 ## Simulation
-To simulate the [Webots package](https://github.com/cyberbotics/webots) is used. The documentation can be found [here](https://cyberbotics.com/doc/guide/index)
+To simulate the [Webots package](https://github.com/cyberbotics/webots) is used. The documentation can be found [here](https://cyberbotics.com/doc/guide/index).
 
-To run the simulation execute the following
+![Webots Interface](docs/images/webots-interface.png)
+
+To run the simulation execute the following:
 * Download and install Webots, see [installation guide](https://cyberbotics.com/doc/guide/installing-webots)
-* Clone [this](https://github.com/martin-vl/smartins-micromouse) repository
+* Clone or download [this](https://github.com/martin-vl/smartins-micromouse) repository
 * Open the simulation file /simulation/worlds/micromouse.wbt
 * Run simulation with the play button
 
@@ -37,7 +39,7 @@ With a python script a new maze can be generated, which results in a new maze.pr
 # cd /simulation/generateMaze/
 # python genMaze.py
 ```
-Within the python file the maze can be changed by editing the maze array (mzArray). In the image below the representation of numbers can be found.
+Within the python file the maze can be changed by editing the maze array (mzArray). In the image below the representation of the numbers can be found.
 
 ![Maze numbering](docs/images/mazeArrayNumbering.png)
 
