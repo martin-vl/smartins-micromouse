@@ -18,6 +18,16 @@ PROTO micromouse [
     translation IS translation
     rotation IS rotation
     children [
+      Compass {
+        translation 0 0.011 0.032
+        rotation -1 0 0 1.5708
+        name "magnetometer"
+        lookupTable [
+          -1 -180 0.1,
+          0	0	0.1,
+          1	180	0.1
+        ]
+      }
       DEF sensorBlockL Transform {
         translation 0 0.0184 -0.029
         rotation 0 1 0 1.5708
@@ -163,6 +173,10 @@ PROTO micromouse [
           anchor -0.0405 0.016 0
         }
         device [
+          PositionSensor {
+            name "sensEncL"
+            resolution 0.01047
+          }
           RotationalMotor {
             name IS motorLname
           }
@@ -212,6 +226,10 @@ PROTO micromouse [
           anchor 0.0405 0.016 0
         }
         device [
+          PositionSensor {
+            name "sensEncR"
+            resolution 0.01047
+          }
           RotationalMotor {
             name IS motorRname
           }

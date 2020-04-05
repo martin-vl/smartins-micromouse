@@ -9,6 +9,9 @@ window.onload = function() {
      document.getElementById("sensR").innerHTML   = values[4];
      document.getElementById("motL").innerHTML    = values[5];
      document.getElementById("motR").innerHTML    = values[6];
+     document.getElementById("encL").innerHTML    = values[7];
+     document.getElementById("encR").innerHTML    = values[8];
+     document.getElementById("dir").innerHTML     = values[9];
     
   }
 }
